@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c66e374-b89b-4917-90b8-9f63f549947e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/facebook/graph-sdk" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1WMFDuHf7bfgxv049BLMXMsgQFY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Tourism\admin\includes" />
+      <recent name="C:\xampp\htdocs\BusTicket\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Tourism\admin" />
+      <recent name="C:\xampp\htdocs\BusTicket\admin\includes" />
+      <recent name="C:\xampp\htdocs\BusTicket\admin" />
+      <recent name="C:\xampp\htdocs\BusTicket\includes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dashboard-admin.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/admin/dashboard-admin.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.dashboard-admin.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c66e374-b89b-4917-90b8-9f63f549947e" name="Default Changelist" comment="" />
+      <created>1571847479257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571847479257</updated>
+      <workItem from="1571847486801" duration="6026000" />
+      <workItem from="1571856996741" duration="1719000" />
+      <workItem from="1571916575650" duration="2517000" />
+      <workItem from="1571936900392" duration="1893000" />
+      <workItem from="1572166890847" duration="599000" />
+      <workItem from="1572168794802" duration="50000" />
+      <workItem from="1578951443436" duration="2407000" />
+      <workItem from="1578997700564" duration="128000" />
+      <workItem from="1579037817086" duration="1754000" />
+      <workItem from="1580064716226" duration="18510000" />
+      <workItem from="1580130458270" duration="28000" />
+      <workItem from="1580336245440" duration="7238000" />
+      <workItem from="1580385536112" duration="5634000" />
+      <workItem from="1581367792461" duration="653000" />
+      <workItem from="1586347792289" duration="8039000" />
+      <workItem from="1586357742180" duration="12589000" />
+      <workItem from="1586412411450" duration="20070000" />
+      <workItem from="1586437236208" duration="13221000" />
+      <workItem from="1586463388359" duration="2842000" />
+      <workItem from="1586528446195" duration="641000" />
+      <workItem from="1586646732380" duration="3408000" />
+      <workItem from="1586690082665" duration="6805000" />
+      <workItem from="1586699923155" duration="298000" />
+      <workItem from="1586703210250" duration="35000" />
+      <workItem from="1587122031699" duration="11627000" />
+      <workItem from="1587138636770" duration="21123000" />
+      <workItem from="1587201181162" duration="25853000" />
+      <workItem from="1587235443726" duration="302000" />
+      <workItem from="1587238557843" duration="50000" />
+      <workItem from="1587669077171" duration="11287000" />
+      <workItem from="1587723763885" duration="2498000" />
+      <workItem from="1587726287003" duration="4221000" />
+      <workItem from="1587933587235" duration="6944000" />
+      <workItem from="1604933100081" duration="1968000" />
+      <workItem from="1604999917490" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
